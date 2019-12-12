@@ -13,10 +13,10 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class PROFILFRAGMENT extends Fragment {
+public class ProfilFragment extends Fragment {
 
 
-    public PROFILFRAGMENT() {
+    public ProfilFragment() {
         // Required empty public constructor
     }
 
